@@ -1,9 +1,11 @@
 <?php
 /**
+ * WordPress Bootstrap Pagination
  *
- * @author Greg Gunner,
+ * This is a simple function for adding to a WordPress theme to output a Bootstrap 3 pagination component.
+ *
+ * @author Greg Gunner, Co-Foundry
  */
-
 
 /**
  * Create a bootstrap 3 pagination set of elements
