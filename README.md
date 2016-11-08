@@ -24,4 +24,4 @@ In addition, the second parameter for the function accepts the `$args` parameter
 
 ##Note
 
-This is not an actively maintained project and was only created because we found a luck of simple examples of this online and decided to create one.
+This is not an actively maintained project and was only created because we found a lack of simple examples of this online and decided to create one.
