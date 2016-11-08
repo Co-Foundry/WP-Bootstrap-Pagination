@@ -10,7 +10,7 @@
 /**
  * Create a bootstrap 3 pagination set of elements
  *
- * @param $wp_query object The QP_Query object to use
+ * @param object $wp_query The QP_Query object to use
  * @param array $args array A list of arguments per https://codex.wordpress.org/Function_Reference/paginate_links
  * @return string The Html output
  */
